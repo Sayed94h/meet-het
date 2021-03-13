@@ -1,0 +1,68 @@
+section.afhalen-wrapper,
+section.terugbrengen-wrapper {
+	display: none;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #f5f5f5f5;
+}
+
+section.afhalen-wrapper section.container,
+section.terugbrengen-wrapper section.container {
+	width: 50vw;
+	margin: 3vw 20vw;
+	background-color: #fff;
+	padding: 12px;
+	border-radius: 12px;
+}
+
+section.afhalen-wrapper section.container div.label,
+section.terugbrengen-wrapper section.container div.label {
+	background-color: rgb(6, 11, 75);
+	color: white;
+	font-size: 19px;
+	border-radius: 9px;
+	padding: 2px 5px;
+	margin-bottom: 8px;
+}
+section.afhalen-wrapper section.container input,
+select,
+section.terugbrengen-wrapper section.container select {
+	margin-bottom: 5px;
+	width: 30vw;
+	height: 25px;
+	border-radius: 8px;
+	outline: none;
+	border: 1px blue solid;
+}
+div.button-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+section.afhalen-wrapper section.container div.button-container button,
+section.terugbrengen-wrapper section.container div.button-container button {
+	background-color: blue;
+	color: white;
+	font-size: 19px;
+	margin: 10px 25px;
+	outline: none;
+	border: 1px blue solid;
+	border-radius: 9px;
+	width: 115px;
+	cursor: pointer;
+}
+
+section.message1 div,
+section.message2 div {
+	width: 50vw;
+	margin: 3vw 20vw;
+	background-color: #fff;
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	padding: 12px;
+	border-radius: 12px;
+}

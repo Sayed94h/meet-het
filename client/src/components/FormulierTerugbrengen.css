@@ -1,0 +1,8 @@
+section.terugbrengen-wrapper section.container textarea {
+	width: 48vw;
+	height: 15vw;
+	border-radius: 19px;
+	outline: none;
+	border: 1px blue solid;
+	padding: 7px 9px;
+}

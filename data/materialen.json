@@ -1,0 +1,19 @@
+{
+ "nextId": 9,
+ "materialen": [
+  {
+   "naam": "Arthur Van Johan",
+   "materiaal": "Lasertracker AT403",
+   "datumTijd": "13-Mar-2021 13:54:28",
+   "teruggebracht": "neen",
+   "id": 7
+  },
+  {
+   "naam": "Kris Wouter",
+   "materiaal": "Leica valstok GLS12 metaal uitschuifbaar met klik",
+   "datumTijd": "13-Mar-2021 20:39:24",
+   "teruggebracht": "neen",
+   "id": 8
+  }
+ ]
+}

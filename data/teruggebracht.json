@@ -1,0 +1,59 @@
+{
+ "nextId": 7,
+ "materialen": [
+  {
+   "naam": "Test1 Test2",
+   "materiaal": "RST MEMS Vertical Inclinometer System",
+   "datumTijd": "13-Mar-2021 12:03:42",
+   "status": "stuk",
+   "info": "mijn vriend het heet stuk gemaakt",
+   "teruggebracht": "ja",
+   "id": 1
+  },
+  {
+   "naam": "Test13 Test22",
+   "materiaal": "Leica RTC 3D",
+   "datumTijd": "13-Mar-2021 12:14:58",
+   "status": "stuk",
+   "info": "Sorry dat is het stuk heb gemaakt",
+   "teruggebracht": "ja",
+   "id": 2
+  },
+  {
+   "naam": "final test",
+   "materiaal": "Lasertracker AT403",
+   "datumTijd": "13-Mar-2021 13:04:17",
+   "status": "stuk",
+   "info": "geen reden",
+   "teruggebracht": "ja",
+   "id": 3
+  },
+  {
+   "naam": "Arthur Van Johan",
+   "materiaal": "Seco bipod",
+   "datumTijd": "13-Mar-2021 13:26:54",
+   "status": "ok",
+   "info": "",
+   "teruggebracht": "ja",
+   "id": 4
+  },
+  {
+   "naam": "Thomas Van Koen",
+   "materiaal": "Leica RTC 3D",
+   "datumTijd": "13-Mar-2021 13:32:15",
+   "status": "stuk",
+   "info": "",
+   "teruggebracht": "ja",
+   "id": 5
+  },
+  {
+   "naam": "Test11 Test22",
+   "materiaal": "NavVis VLX",
+   "datumTijd": "13-Mar-2021 20:39:24",
+   "status": "stuk",
+   "info": "Sorry dat ik het materiaal heb stuk gemaakt(een voorbeeld)",
+   "teruggebracht": "ja",
+   "id": 6
+  }
+ ]
+}
